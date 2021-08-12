@@ -19,19 +19,15 @@ Atualmente estou interessado em aprender mais sobre js, python😇
 <br/>  
   
   ## Connect with me  
-<ul>
-          <li>
-            <a href="https://github.com/ViniBusculo">
-              <i class="fa fa-Git" aria-hidden="true"></i>
-              <span> - Git</span>
-            </a>
-          </li>
-            <a href="https://www.instagram.com/vini_busculo/">
-              <i class="fa fa-instagram" aria-hidden="true"></i>
-              <span> - Instagram</span>
-            </a>
-          </li>
+<a href="https://github.com/ViniBusculo" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/vini_busculo/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
   
+
+<br/>  
 
 <br/>  
  
