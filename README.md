@@ -40,7 +40,7 @@ produção.
 <a href="https://www.instagram.com/vini_busculo/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.linkedin.com/in/vinicios-rodrigues-09bb95211/" target="_blank"> 
+<a href="https://www.linkedin.com/in/vinicios-rodrigues-dev/" target="_blank"> 
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
 </a>
   
