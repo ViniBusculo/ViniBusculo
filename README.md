@@ -1,4 +1,4 @@
-###  <div align = "center"> Ei!! Eu sou vinicios busculo. Desenvolvedor de sistemas com 3 anos de experiência e apaixonado por tecnologia. Estou sempre buscando aprender e evoluir! 🚀
+###  <div align = "center"> Ei!! Eu sou Vinicios Busculo Rodrigues. Desenvolvedor de sistemas com 3 anos de experiência e apaixonado por tecnologia. Estou sempre buscando aprender e evoluir! 🚀
 Atualmente estudando mais sobre JavaScript, Python, CSS e PHP.
 
 🧠 Sobre mim
