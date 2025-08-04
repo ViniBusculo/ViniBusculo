@@ -1,8 +1,7 @@
-###  <div align = "center"> Ei!! Eu sou vinicios busculo. estou estudando para ser desenvolvedor🧑‍💻
+###  <div align = "center"> Ei!! Eu sou vinicios busculo. Desenvolvedor de sistemas com 3 anos de experiência e apaixonado por tecnologia. Estou sempre buscando aprender e evoluir! 🚀
+Atualmente estudando mais sobre JavaScript, Python, CSS e PHP.
 
-Atualmente estou interessado em aprender mais sobre js, python😇
-
-🌱 Atualmente estou aprendendo java, css e php
+🧠 Sobre mim
 
 Profissional com 3 anos de experiência em desenvolvimento de sistemas, com forte especialização em Java e atuação em projetos que integram tecnologias modernas e soluções escaláveis.
 
@@ -28,10 +27,9 @@ melhorias de desempenho.
 • Suporte técnico aos usuários internos e externos, além de análises de erros em 
 produção.
 
-❓ Pergunte-me sobre qualquer coisa relacionada ao desenvolvimento da Web
-
 📫Como entrar em contato comigo busculovini@gmail.com
 
+❓ Pergunte-me sobre qualquer coisa relacionada ao desenvolvimento da Web
 
 <br/>  
   
@@ -42,6 +40,9 @@ produção.
 <a href="https://www.instagram.com/vini_busculo/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.linkedin.com/in/vinicios-rodrigues-09bb95211/" target="_blank"> 
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
+</a>
   
 
 <br/>  
